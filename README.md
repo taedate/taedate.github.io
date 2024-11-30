@@ -3,7 +3,7 @@
 
 ---
 
-![Profile Picture](https://github.com/taedate/taedate.github.io/blob/main/tae.png?raw=true)  
+![Profile Picture](/assets/tae.png)  
 
 ---
 
@@ -42,3 +42,8 @@
 ---
 
 **ยินดีที่ได้รู้จักครับ! 😊**
+
+---
+
+LINK ASSIGNMENTS
+- [Digital Certification](Digital-Certification)
