@@ -6,7 +6,6 @@
 
 
 
-[AUTHENTICATION](authentication)
 [keyword](Digital-Certificate)
 
 ![alt text](https://github.com/taedate/taedate.github.io/blob/main/tae.png?raw=true)
