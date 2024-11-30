@@ -131,7 +131,7 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
+- title: Fork Word Synonyms
   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
