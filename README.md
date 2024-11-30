@@ -46,4 +46,4 @@
 ---
 
 LINK ASSIGNMENTS
-- [Digital Certification](Digital-Certification)
+- [Digital Certification](Digital-Certificate)
