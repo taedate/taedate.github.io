@@ -4,3 +4,5 @@
     - tae
 - Nakorn Thungprapaporn
 - Nakorn Thungprapaporn
+
+![alt text](/assets/tae.png)
