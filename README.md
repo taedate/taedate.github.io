@@ -3,7 +3,6 @@
 - Nakorn Thungprapaporn :sunflower:
     - tae :sunflower:
 - Nakorn Thungprapaporn
-- Nakorn Thungprapaporn
 
 [AUTHENTICATION](authentication)
 
