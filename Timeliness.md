@@ -1,9 +1,9 @@
 # Data Quality  
-#### [Timeline]  
+#### [Timeliness]  
 
 **อ้างอิง:** [Alation](https://www.alation.com/blog/what-is-data-quality-why-is-it-important/)  
 
-| **ลำดับ** | **เว็ปไซต์** | **ความหมาย** |  
+| **ลำดับ** | **เว็ปไซต์** | **ความหมาย** | 
 | --------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
 | 1 | **Alation** | Timeliness measures how up-to-date or antiquated the data is at any given moment. For example, if you have information on your customers from 2008, and it is now 2021, then there would be an issue with the timeliness as well as the completeness of the data. When determining data quality, the timeliness dimension can have a tremendous effect — either positive or negative — on its overall accuracy, viability, and reliability. |  
 | 2 | **CHAT GPT** | Timeliness หมายถึงความทันสมัยหรือความล้าสมัยของข้อมูลในช่วงเวลาใดเวลาหนึ่ง ตัวอย่างเช่น หากคุณมีข้อมูลเกี่ยวกับลูกค้าของคุณตั้งแต่ปี 2008 แต่ตอนนี้เป็นปี 2021 ข้อมูลดังกล่าวจะมีปัญหาเรื่องความทันสมัย (timeliness) รวมถึงความครบถ้วนสมบูรณ์ (completeness) ของข้อมูลด้วย เมื่อพิจารณาคุณภาพของข้อมูล มิติของความทันสมัยนี้อาจมีผลกระทบอย่างมาก — ไม่ว่าจะเป็นเชิงบวกหรือเชิงลบ — ต่อความถูกต้อง ความน่าเชื่อถือ และความสามารถในการใช้งานของข้อมูลโดยรวม |  
