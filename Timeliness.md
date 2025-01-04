@@ -1,5 +1,5 @@
 # Data Quality  
-#### [Timeliness] 🚀 
+#### [Timeliness] 
 
 **อ้างอิง:** [Alation](https://www.alation.com/blog/what-is-data-quality-why-is-it-important/)  
 
