@@ -12,3 +12,7 @@ Detail : Verify that time-based OTPs have a defined lifetime before expiring
 
 **Summary**
 ตรวจสอบว่า OTP ที่สร้างตามเวลา (TOTP) มีอายุการใช้งานที่กำหนด เช่น 30 หรือ 60 วินาที และหมดอายุเมื่อครบกำหนด เพื่อป้องกันการใช้รหัสซ้ำ ลดความเสี่ยงจากการดักจับ และเพิ่มความปลอดภัยในการยืนยันตัวตน
+
+Member
+1. [Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
+2. [Supakrit Somritjinda](https://jekoflash.github.io/boardGame)
